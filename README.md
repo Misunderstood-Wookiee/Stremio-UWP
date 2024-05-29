@@ -4,6 +4,6 @@ A Universial Windows Program (UWP) WebView App for Windows and Xbox
 # Important
 - Important the Streaming URL must be manually for each Xbox User.
 - Streaming Services which require Browser DRM may not function correctly.
-
-[GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
-This shares no affiliation with www.stremio.com
+## Legal Transparency
+- [GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
+- This shares no affiliation with www.stremio.com
