@@ -143,7 +143,7 @@
       <Version>1.0.2535.41</Version>
     </PackageReference>
     <PackageReference Include="WebView2.Runtime.X64">
-      <Version>125.0.2535.67</Version>
+      <Version>125.0.2535.92</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
